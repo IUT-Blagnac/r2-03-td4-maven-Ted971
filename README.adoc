@@ -1,3 +1,11 @@
+= TP4 par Teddy Babel
+Ce programme java va afficher un sapin couché de 5 étoiles comme taille 
+Pour compiler et faire fonctionner ce programme il faut d'abord utiliser maven
+en premier il faut utiliser mvn package, puis java -jar target/tp_qualite-1.0.jar
+Le programme se lancera et affichera un sapin puis "ca a fonctionné"
+
+
+
 = Compiler et construire ses applications avec maven
 Jean-Michel Bruel <jbruel@gmail.com>
 v1, 2022-02-20 : Initial draft
