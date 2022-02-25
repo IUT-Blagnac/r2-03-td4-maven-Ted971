@@ -114,7 +114,7 @@ public class Matrice
     *dessine un sapin couché
     *c'est tout
     *sou-bis
-    *@param args aucune idée mais ans lui tout meurs
+    *@param args aucune idée mais sans lui tout meurs
      */
     public static void main(String[] args){
         System.out.println(genererSapinCouche(5));
